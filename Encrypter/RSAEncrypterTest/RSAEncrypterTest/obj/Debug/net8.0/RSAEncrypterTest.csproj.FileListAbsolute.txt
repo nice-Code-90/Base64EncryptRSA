@@ -1,0 +1,14 @@
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\bin\Debug\net8.0\RSAEncrypterTest.exe
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\bin\Debug\net8.0\RSAEncrypterTest.deps.json
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\bin\Debug\net8.0\RSAEncrypterTest.runtimeconfig.json
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\bin\Debug\net8.0\RSAEncrypterTest.dll
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\bin\Debug\net8.0\RSAEncrypterTest.pdb
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\RSAEncrypterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\RSAEncrypterTest.AssemblyInfoInputs.cache
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\RSAEncrypterTest.AssemblyInfo.cs
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\RSAEncrypterTest.csproj.CoreCompileInputs.cache
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\RSAEncrypterTest.dll
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\refint\RSAEncrypterTest.dll
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\RSAEncrypterTest.pdb
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\RSAEncrypterTest.genruntimeconfig.cache
+C:\Users\mazik\Desktop\Encrypter\RSAEncrypterTest\RSAEncrypterTest\obj\Debug\net8.0\ref\RSAEncrypterTest.dll
